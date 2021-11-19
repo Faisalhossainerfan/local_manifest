@@ -2,8 +2,8 @@
 <manifest>
 
 <!-- Trees -->
-<project path="device/xiaomi/santoni" name="Jabiyeff-Project/device-santoni.git" remote="github" revision="11.0" />
-<project path="vendor/xiaomi" name="Jabiyeff-Project/vendor-santoni.git" remote="github" revision="11.0" />
-<project path="kernel/xiaomi/santoni" name="Jabiyeff-Project/kernel-santoni.git" remote="github" revision="11.0" />
+<project path="device/xiaomi/santoni" name="Jabiyeff-Project/device-santoni" remote="github" revision="11.0" />
+<project path="vendor/xiaomi" name="Jabiyeff-Project/vendor-santoni" remote="github" revision="11.0" />
+<project path="kernel/xiaomi/santoni" name="Jabiyeff-Project/kernel-santoni" remote="github" revision="11.0" />
 
 </manifest>
