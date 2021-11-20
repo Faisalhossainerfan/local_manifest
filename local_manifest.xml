@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<remote name="Jabiyeff-Project"
-        fecth="https://github.com/Jabiyeff-Project" />
+  <remote name="Jabiyeff-Project"
+          fecth="https://github.com/Jabiyeff-Project" />
 
-<!-- Trees -->
-<project path="device/xiaomi/santoni" name="Jabiyeff-Project/device-santoni" remote="github" revision="11.0" />
-<project path="vendor/xiaomi" name="Jabiyeff-Project/vendor-santoni" remote="github" revision="11.0" />
-<project path="kernel/xiaomi/santoni" name="Jabiyeff-Project/kernel-santoni" remote="github" revision="11.0" />
+  <!-- Trees -->
+  <project path="device/xiaomi/santoni" name="Jabiyeff-Project/device-santoni" remote="github" revision="11.0" />
+  <project path="vendor/xiaomi" name="Jabiyeff-Project/vendor-santoni" remote="github" revision="11.0" />
+  <project path="kernel/xiaomi/santoni" name="Jabiyeff-Project/kernel-santoni" remote="github" revision="11.0" />
 
 </manifest>
