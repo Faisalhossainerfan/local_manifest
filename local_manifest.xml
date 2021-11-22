@@ -2,8 +2,6 @@
 <manifest>
   
 
-
-
   <remote name="Jabiyeff-Project"
           fetch="https://github.com/Jabiyeff-Project" />
 
