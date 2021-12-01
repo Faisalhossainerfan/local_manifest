@@ -13,6 +13,5 @@
         <project path="kernel/xiaomi/santoni" name="kernel-santoni" remote="Jabiyeff-Project" revision="11.0" />
 
 <!-- Extras -->
-        <remove-project name="sepolicy-legacy-um" />
         <project path="device/qcom/sepolicy-legacy-um" name="sepolicy-legacy-um" remote="Faisalhossainerfan" revision="11-legacy-um" />
 </manifest>
