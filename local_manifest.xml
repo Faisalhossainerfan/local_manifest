@@ -17,6 +17,6 @@
 
   <!-- Extra -->
         <remove-project name="android_hardware_qcom_wlan" />
-        <project path="hardware/qcom-caf/wlan" name="android_hardware_qcom_wlan" remote="jabiyeff-project" revision="11.0" />
+        <project path="hardware/qcom-caf/wlan" name="android_hardware_qcom_wlan" remote="Jabiyeff-Project" revision="11.0" />
 
 </manifest>
